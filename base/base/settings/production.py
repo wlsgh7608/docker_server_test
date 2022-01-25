@@ -1,6 +1,5 @@
 from .common import *
 
-
 DATABASES = {
     'default': {
 
